@@ -1,0 +1,29 @@
+#formContainer{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    height: 100vh;
+}
+form{
+    width: 300px;
+    padding: 10px;
+    border: 1px , solid, black;
+    border-radius: 10px;
+}
+form label{
+    margin-bottom: 10px;
+}
+#mentes{
+    width: 100%;
+    padding: 10px;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.card{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    height: 300px;
+}
